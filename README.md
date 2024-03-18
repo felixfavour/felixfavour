@@ -1,7 +1,8 @@
 ### Hi, I'm Favour, Felix.
 
-You'd find me building software interwoven between my personal beliefs and exuberant mundanity.
+You'd find me [building software](https://favourfelix.com/projects) interwoven between my personal beliefs and exuberant mundanity.
 
+### My Interests
 I'm more interested in AI, but not the generative kind for now. 
 
 I'm also keen on learning the workings of WASM—it's one of the billion things I've never explored in my years of experience building apps on the Web (and I'm not even counting the new daily JS frameworks).
