@@ -9,7 +9,7 @@ I'm also keen on learning the workings of WASM—it's one of the billion things 
 
 I love to have conversations about web technologies, and some say I have expert knowledge of the Vue framework.
 
----
+### 🎹🎸🥁
 
 **Fun fact**: I play the piano, guitar and drums, yet I'm not nearly as good as the worst professionals in any of them :)
 
